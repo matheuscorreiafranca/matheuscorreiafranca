@@ -165,7 +165,6 @@ The repositories above are selected evidence, not a proficiency ranking. Much of
 |:--|:--|
 | Portuguese | Native |
 | English | C1 — Advanced professional proficiency |
-| French | B2 — Upper-intermediate proficiency |
 
 ## Let's build reliable software
 
